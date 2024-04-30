@@ -1,0 +1,3 @@
+rule - depending on the privilages(hod, vc, directors)
+
+ot, leave time, entry time(total time(1week = 40hr, 1day = 8, half day = 4hr), emp_name, emp_id, ph_id, email_id

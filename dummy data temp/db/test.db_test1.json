@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389ea"
+  },
+  "emp_id": 110,
+  "emp_name": "Neel",
+  "emp_ph": 989,
+  "emp_gmail": "fdhs@gmail.com",
+  "entry_time": 800,
+  "leave_time": 1700,
+  "over_time": 1
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389eb"
+  },
+  "emp_id": 111,
+  "emp_name": "John Doe",
+  "emp_ph": 123456,
+  "emp_gmail": "johndoe@example.com",
+  "entry_time": 830,
+  "leave_time": 1630,
+  "over_time": 0
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389ec"
+  },
+  "emp_id": 112,
+  "emp_name": "Alice Smith",
+  "emp_ph": 987654,
+  "emp_gmail": "alice.smith@example.com",
+  "entry_time": 900,
+  "leave_time": 1700,
+  "over_time": 0
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389ed"
+  },
+  "emp_id": 113,
+  "emp_name": "Bob Johnson",
+  "emp_ph": 654321,
+  "emp_gmail": "bob.johnson@example.com",
+  "entry_time": 815,
+  "leave_time": 1715,
+  "over_time": 1
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389ee"
+  },
+  "emp_id": 114,
+  "emp_name": "Emily Davis",
+  "emp_ph": 987123,
+  "emp_gmail": "emily.davis@example.com",
+  "entry_time": 830,
+  "leave_time": 1630,
+  "over_time": 0
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389ef"
+  },
+  "emp_id": 115,
+  "emp_name": "Michael Wilson",
+  "emp_ph": 123987,
+  "emp_gmail": "michael.wilson@example.com",
+  "entry_time": 845,
+  "leave_time": 1645,
+  "over_time": 0
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389f0"
+  },
+  "emp_id": 116,
+  "emp_name": "Samantha Brown",
+  "emp_ph": 456789,
+  "emp_gmail": "samantha.brown@example.com",
+  "entry_time": 830,
+  "leave_time": 1300,
+  "over_time": -430
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389f1"
+  },
+  "emp_id": 117,
+  "emp_name": "David Wilson",
+  "emp_ph": 987654,
+  "emp_gmail": "david.wilson@example.com",
+  "entry_time": 900,
+  "leave_time": 1800,
+  "over_time": 1
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389f2"
+  },
+  "emp_id": 118,
+  "emp_name": "Sarah Johnson",
+  "emp_ph": 987123,
+  "emp_gmail": "sarah.johnson@example.com",
+  "entry_time": 815,
+  "leave_time": 1630,
+  "over_time": 13
+},
+{
+  "_id": {
+    "$oid": "662a07929643dc6b2c5389f3"
+  },
+  "emp_id": 119,
+  "emp_name": "Tom Smith",
+  "emp_ph": 123987,
+  "emp_gmail": "tom.smith@example.com",
+  "entry_time": 830,
+  "leave_time": 1645,
+  "over_time": 13
+}]
